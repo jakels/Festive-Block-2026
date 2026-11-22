@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# packwiz hashes every file in the pack; line-ending conversion would break those hashes
+modpack/** -text

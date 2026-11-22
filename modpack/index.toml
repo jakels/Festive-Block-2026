@@ -1,0 +1,99 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/biome_replacer.properties"
+hash = "70ed2f5e75b6138d6920471dd69ebfcdb4b0d88fbd8bb8b66689a95d17a78338"
+
+[[files]]
+file = "config/biomesoplenty/biome_toggles.json"
+hash = "037786b7483a04b6be92b0d26dac4b84ebe2573d237181927313621ad238395d"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "21347d7f9c96cebacb7238dbef2670e2906a11572606016c8184e9485947dacc"
+metafile = true
+
+[[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "e625e28ab69ac6c281861b3020f44a31ba3ec16f66916f9911989c929420bc1a"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "a4931e5abbec081a08ab3a1d69b2d470596b6361d707a7756f6ad34c0f21f81e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/cold-sweat.pw.toml"
+hash = "9e1ebf962e6178fc60a416fd43d8b8dc5368fecf0127d93c73346fd73d0919a7"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "9ae835550d113663b527b6ba934dd7d758d8e0a93c68bb44d84eb1ef1be69159"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "d025359648bc99d4eec57a159fe07ba3638c519a7b568b414041fe15fb196066"
+metafile = true
+
+[[files]]
+file = "mods/distant-thunders.pw.toml"
+hash = "82568bd8d995314d55cb38d7e9c0702ebb67e39afb54a5dae9bbe1094f6018d2"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "e50f87650e3a5becf3cd1772e8053a8bc04c48859a6fa814e75e6c71eaa87e6c"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "84f4b09b7ef3ef75478cfa6d126951958444d612375c99b1c4e7e6bdbef28c1c"
+metafile = true
+
+[[files]]
+file = "mods/musket-mod.pw.toml"
+hash = "359f98f5d3028b8f9383258479cd2852054ad3475e18621b63b50864ff5852eb"
+metafile = true
+
+[[files]]
+file = "mods/pretty-rain.pw.toml"
+hash = "8319748b7c1a39462d159ed94da5c972b99958628c776be8d7c1e4c48fdaa5eb"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6f9502735fcac7a35468358e2aa0fd9333b12df885db3325c472d298ce315a72"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "bf9ea8aec309bbb0ff5ee1bf1ceaf199e79ba2ae7a87d1cf763bea4ec8e82e1c"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "dcb7e97ce31857dd53a4e97688a26f71b9605f5e42fa32ee6b4dbfba9a8b3cc7"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "6727704e22c27be46fc08859f94dd0061cecf27ed2a7451c5bc1a0bdf50edbe5"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true

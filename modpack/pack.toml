@@ -1,0 +1,13 @@
+name = "Festive Block 26"
+author = "Jake"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fad8a7466639ab73a9b14c11729a994bc829d88692dffe3a96badaf9a364e666"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.267"
