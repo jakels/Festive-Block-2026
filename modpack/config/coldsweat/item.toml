@@ -1,0 +1,7 @@
+# Festive Block 26: "Hard" preset item rules. Cold Sweat fills in everything else with defaults.
+
+["Item Functions"]
+	# Fire/Ice Resistance potions no longer make you immune to overheating/freezing
+	"Fire Resistance Immunity" = false
+	"Ice Resistance Immunity" = false
+	"Require Thermometer" = true

@@ -1,0 +1,7 @@
+# Festive Block 26: only changed settings; Snow! Real Magic! fills in the rest.
+---
+accumulation:
+  # Snow builds up during normal snowfall, not only during storms (default false)
+  accumulatesDuringSnowfall: true
+  # Safety net: snow and ice at world generation even in any non-snowy spot (default false)
+  worldGenSnowAndFreezeEverywhere: true

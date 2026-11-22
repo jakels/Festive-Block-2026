@@ -1,0 +1,14 @@
+# Festive Block 26: Cold Sweat set to its built-in "Hard" preset.
+# Only the changed settings are listed; Cold Sweat fills in everything else with defaults.
+# Temperatures are in Cold Sweat's internal units: (F - 32) / 45.
+
+[Builtin]
+	Difficulty = "hard"
+
+[Difficulty]
+	# 55 F (Normal is 50 F)
+	"Minimum Habitable Temperature" = 0.5111111111111111
+	# 90 F (Normal is 100 F)
+	"Maximum Habitable Temperature" = 1.288888888888889
+	# Body temperature changes 25% faster than Normal
+	"Rate Multiplier" = 1.25

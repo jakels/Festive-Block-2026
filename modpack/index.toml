@@ -97,3 +97,24 @@ metafile = true
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
+
+[[files]]
+file = "config/prettyrain-client.toml"
+hash = "7c816f0e1cbdc0acab9f8a2f97831956de83c1f5ba83f0e1cedb6a19f1e5c99f"
+preserve = true
+
+[[files]]
+file = "config/coldsweat/item.toml"
+hash = "ac43c5f774937d5cc2fda088c03322d53b42bd12b738af3a2c9cb04df98ed28c"
+
+[[files]]
+file = "config/coldsweat/main.toml"
+hash = "7ef39128207b2b3d577a1500802011ee54796e60fcdab19d2a25e9d8d48ad8f6"
+
+[[files]]
+file = "config/musketmod.txt"
+hash = "e4e5fed0265563b6e7845edb8d436801b0af15f29706837b7888d996a2992205"
+
+[[files]]
+file = "config/snowrealmagic-common.yaml"
+hash = "cfb670a8ab7b17d2bf2c3a24fa1be141d6af7073cd627797dc2ddcd041399ca0"

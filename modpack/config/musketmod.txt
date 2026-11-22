@@ -1,0 +1,9 @@
+version = 4
+
+# Festive Block 26: "deadlier" armed mobs. Unlisted settings use Musket Mod defaults.
+# Damage multiplier for monsters (default 0.5)
+mobDamageMultiplier = 0.75
+# Probability of Pillager having a pistol (default 0.2)
+pistolPillagerChance = 0.3
+# Probability of Skeleton having a musket (default 0.05)
+musketSkeletonChance = 0.1
